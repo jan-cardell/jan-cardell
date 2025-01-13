@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jan-cardell
-- 🌱 I’m currently studying Data Science at IT-University Copenhagen.
+- 🌱 I’m currently studying Data Science at the [IT-University Copenhagen](https://en.itu.dk/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jancardell/)
 
 
